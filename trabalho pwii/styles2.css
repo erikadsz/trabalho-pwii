@@ -1,0 +1,32 @@
+#divOne{
+    width:520px;
+    height: 729px;
+    margin: 0;
+    padding-left: 250px;
+    background-color: rgb(228, 217, 219);
+
+}
+   html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0097B2;
+
+    }
+    body{
+        margin: 0;
+        padding: 0;
+    }
+   
+
+    .content{
+        display: flex;
+        gap: 0; 
+    }
+    
+    .content div{
+        flex: 1;
+        margin: 0;
+        padding: 0;
+    }
+    
+   
+    
